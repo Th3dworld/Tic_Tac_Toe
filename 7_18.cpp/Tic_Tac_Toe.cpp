@@ -5,7 +5,7 @@ using namespace std;
 
 /*
 * This program is a tic tac toe game
-* It will utilize the use of Arrays to store player positions
+* It will utilize the use of Arrays to store player positions.
 * 
 * Matanda Hillary Phiri.
 */

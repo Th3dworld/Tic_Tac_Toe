@@ -1,5 +1,6 @@
 # Tic_Tac_Toe
 Tic Tac Toe, let us play!!!
+![](https://github.com/Th3dworld/Tic_Tac_Toe/blob/master/Tic%20Tac%20Toe%20Gif.gif)
 
 This program was quite challenging for me at the time I wrote it. The logic wasn't the challenge though, the visualization was.
 
